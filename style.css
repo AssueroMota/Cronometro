@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+
+.tempo {
+
+    margin-top: 200px;
+    text-align: center;
+    height: 100vh;
+    width: auto;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+}
+
+.tempo h1 {
+    display: block;
+    font-size: 100px;
+    color: aliceblue;
+}
+
+button {
+    font-size: 35px;
+    border-radius: 10px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+.botaoIniciar {
+    background-color: green;
+}
+
+.botaoPausar {
+    background-color: yellowgreen
+}
+
+.botaoZerar {
+    background-color: brown;
+}
